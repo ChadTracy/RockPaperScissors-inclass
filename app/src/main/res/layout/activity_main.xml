@@ -18,8 +18,8 @@
     />
 
     <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
         android:id="@+id/btnPaper"
         android:backgroundTint="@android:color/transparent"
         android:layout_below="@id/btnLizard"
@@ -30,8 +30,8 @@
 
 
     <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
         android:id="@+id/btnRock"
         android:backgroundTint="@android:color/transparent"
         android:src="@drawable/rock"
@@ -39,8 +39,8 @@
         android:layout_centerVertical="true"
         />
     <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
         android:id="@+id/btnScissors"
         android:backgroundTint="@android:color/transparent"
         android:src="@drawable/scissors"
@@ -49,8 +49,8 @@
         />
 
     <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
         android:id="@+id/btnLizard2"
         android:backgroundTint="@android:color/transparent"
         android:src="@drawable/lizard"
@@ -58,8 +58,8 @@
         android:layout_below="@id/btnRock"
         />
     <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
         android:id="@+id/btnRock2"
         android:backgroundTint="@android:color/transparent"
         android:src="@drawable/rock"
@@ -68,8 +68,8 @@
         />
 
     <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
         android:id="@+id/btnPaper2"
         android:backgroundTint="@android:color/transparent"
         android:layout_below="@id/btnRock2"
@@ -78,8 +78,8 @@
         />
 
     <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
         android:id="@+id/btnSpock"
         android:backgroundTint="@android:color/transparent"
         android:src="@drawable/spock"
@@ -87,8 +87,8 @@
         android:layout_centerHorizontal="true"
     />
     <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
         android:id="@+id/btnRock3"
         android:backgroundTint="@android:color/transparent"
         android:src="@drawable/rock"
